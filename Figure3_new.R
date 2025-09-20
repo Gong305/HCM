@@ -1,4 +1,4 @@
-###########10月11日NC泛癌代谢思路模仿-----
+###########10月11日NC-----
 setwd("~/scRNA-heart-mitochodria")
 output <- "~/scRNA-heart-mitochodria/figure/final/Figure2/311/"
 dir.create(output, recursive = TRUE)
